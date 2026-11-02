@@ -1,0 +1,8 @@
+torch>=2.0
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+requests
+tables  # optional, Part B (UK-DALE)

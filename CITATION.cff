@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "BEACON: Cross-Building NILM under a Leakage-Free Benchmark"
+authors:
+  - family-names: Sukkuea
+    given-names: Arsanchai
+    affiliation: Walailak University
+  - family-names: Tharu
+    given-names: Nanda Kumar
+    affiliation: Karnali Academy of Health Sciences
+  - family-names: Akkajit
+    given-names: Pensiri
+    affiliation: Prince of Songkla University
+license: MIT
+preferred-citation:
+  type: article
+  title: "BEACON: A Background-Swap, Event-Gated Network for Cross-Building Non-Intrusive Load Monitoring under a Leakage-Free Benchmark"
+  authors:
+    - family-names: Sukkuea
+      given-names: Arsanchai
+    - family-names: Tharu
+      given-names: Nanda Kumar
+    - family-names: Akkajit
+      given-names: Pensiri
+  journal: "Machine Learning and Knowledge Extraction"
+  year: 2026
+  status: submitted

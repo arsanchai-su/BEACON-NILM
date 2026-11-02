@@ -1,0 +1,16 @@
+appliance,comparison,metric,n_houses,mean_diff,ci_lo,ci_hi,wilcoxon_p,beacon_better
+kettle,beacon − always_off,MAE,2,-5.86945765527158,,,,2
+kettle,beacon − always_off,NDE,2,-0.3237089440405734,,,,1
+kettle,beacon − always_off,F1,2,0.6444235844262047,,,,2
+kettle,beacon − hi_s2p,MAE,2,-1.082699138942015,,,,1
+kettle,beacon − hi_s2p,NDE,2,0.21477602980055782,,,,0
+kettle,beacon − hi_s2p,F1,2,0.12344376028514703,,,,2
+kettle,beacon − hour_of_day_mean,MAE,2,-27.83028147002244,,,,2
+kettle,beacon − hour_of_day_mean,NDE,2,-0.3151165526123934,,,,1
+kettle,beacon − hour_of_day_mean,F1,2,0.6444235844262047,,,,2
+kettle,beacon − seq2point,MAE,2,-8.834979042857864,,,,2
+kettle,beacon − seq2point,NDE,2,-0.18649370988490793,,,,1
+kettle,beacon − seq2point,F1,2,0.2777703505876944,,,,2
+kettle,beacon − train_mean,MAE,2,-27.665379019486103,,,,2
+kettle,beacon − train_mean,NDE,2,-0.31497860526736715,,,,1
+kettle,beacon − train_mean,F1,2,0.6444235844262047,,,,2

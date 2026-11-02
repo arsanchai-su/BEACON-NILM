@@ -1,0 +1,5 @@
+house,channel,on_frac,peak_W,p99_on_W,basis,used,valid_windows
+2,8,0.0037913698880101938,2933.0,2852.0,valid window centres,True,1050855.0
+3,9,0.0077001331799024615,2268.0,2212.0,valid window centres,True,1116998.0
+4,9,1.2589043881000803e-06,2007.0,2007.0,all samples,False,
+5,8,0.007249068178947348,2852.0,2801.0,valid window centres,True,1084180.0
